@@ -15,7 +15,6 @@
 #include <fcntl.h>
 #include <android/log.h>
 
-//check for difference check
 extern "C"
 {
 
